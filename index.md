@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <title>Welcome to KJL's Website!</title>
   <body>
