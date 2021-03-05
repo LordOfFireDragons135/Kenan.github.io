@@ -10,5 +10,6 @@
       <li>And most importantly, he writes books!</li>
     </ol>
     <a href="https://lordoffiredragons135.github.io/Roblox.github.io/">Roblox</a>
+    <a href="https://lordoffiredragons135.github.io/About-Me.github.io/">About Me</a>
   </body>
  </html>
